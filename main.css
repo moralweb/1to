@@ -121,12 +121,12 @@ body {
 }
 
 ::selection {
-  background: #03a4ed;
+  background: #e07c4f;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #03a4ed;
+  background: #e07c4f;
   color: #fff;
 }
 
@@ -217,9 +217,9 @@ body {
 }
 
 .main-green-button a:hover {
-  background-color: #4771cb!important;
+  background-color: #e07c4f!important;
   color: #fff!important;
-  border-bottom: 2px solid #33ccc5!important;
+  border-bottom: 2px solid #ba6347!important;
 }
 
 
