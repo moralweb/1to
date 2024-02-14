@@ -617,7 +617,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #33ccc5;
+    background-color: #e07c4f;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -785,7 +785,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #009b77;
+    background: #ff7300;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
