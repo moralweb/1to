@@ -121,12 +121,12 @@ body {
 }
 
 ::selection {
-  background: #e07c4f;
+  background: #03a4ed;
   color: #fff;
 }
 
 ::-moz-selection {
-  background: #e07c4f;
+  background: #03a4ed;
   color: #fff;
 }
 
@@ -217,9 +217,9 @@ body {
 }
 
 .main-green-button a:hover {
-  background-color: #e07c4f!important;
+  background-color: #4771cb!important;
   color: #fff!important;
-  border-bottom: 2px solid #ba6347!important;
+  border-bottom: 2px solid #33ccc5!important;
 }
 
 
@@ -617,7 +617,7 @@ header
     width: 100%;
   }
   .header-area {
-    background-color: #f59548;
+    background-color: #33ccc5;
     padding: 0px 15px;
     height: 100px;
     box-shadow: none;
@@ -666,8 +666,8 @@ header
     line-height: 50px !important;
     padding: 0px !important;
     border: none !important;
-    background: #f59548 !important;
-    color: #f59548 !important;
+    background: #f7f7f7 !important;
+    color: #191a20 !important;
   }
   .header-area .main-nav .nav li a:hover {
     background: #eee !important;
@@ -696,7 +696,7 @@ header
     height: auto !important;
   }
   .header-area .main-nav .nav li.submenu:after {
-    color: #f59548;
+    color: #3B566E;
     right: 25px;
     font-size: 14px;
     top: 15px;
@@ -785,7 +785,7 @@ preloader
     height: 16px;
     top: 12px;
     left: 15px;
-    background: #ff7300;
+    background: #009b77;
     border-radius: 50%;
     -webkit-transform: translateX(0);
     transform: translateX(0);
@@ -1714,4 +1714,4 @@ responsive
   form#contact {
     padding: 30px;
   }
-}
+    }
