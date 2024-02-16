@@ -1478,7 +1478,7 @@ contact
 
 .contact-us .contact-info {
   padding: 40px 30px;
-  border: 2px solid #949090;
+  border: 1px solid #949090;
 }
 
 .contact-us .contact-info ul li {
@@ -1520,9 +1520,9 @@ form#contact {
 form#contact input {
   width: 100%;
   height: 46px;
-  border-radius: 5px;
+  border-radius: 25px;
   background-color: transparent;
-  border: 2px solid #949090;
+  border: 1px solid #949090;
   outline: none;
   font-size: 15px;
   font-weight: 300;
@@ -1542,7 +1542,7 @@ form#contact textarea {
   max-height: 180px;
   min-height: 140px;
   height: 140px;
-  border-radius: 5px;
+  border-radius: 25px;
   background-color: transparent;
   border: 1px solid #949090;
   outline: none;
@@ -1577,7 +1577,7 @@ form#contact button {
 form#contact button:hover {
   background-color: #4771cb!important;
   color: #fff!important;
-  border-bottom: 2px solid #4771cb!important;
+  border-bottom: 3px solid #4771cb!important;
 }
 
 /* 
